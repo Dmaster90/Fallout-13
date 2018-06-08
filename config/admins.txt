@@ -10,7 +10,8 @@
 LiquidRecluse = Elder
 Verhulst = Elder
 ComradeSully = Elder
-Harcourt = President
+Dmaster90 = President
+Harcourt = Elder
 Lanceprater12 = Knight
 BeeGee0904 = Paladin
 UbrPzMaus = Elder
